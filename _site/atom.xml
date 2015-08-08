@@ -4,7 +4,7 @@
  <title>Ubiquitious Genomics</title>
  <link href="https://ubiquitousgenomics.github.io/atom.xml" rel="self"/>
  <link href="https://ubiquitousgenomics.github.io/"/>
- <updated>2015-08-08T01:15:17-04:00</updated>
+ <updated>2015-08-08T07:47:48-04:00</updated>
  <id>https://ubiquitousgenomics.github.io</id>
  <author>
    <name>Yaniv Erlich</name>
@@ -27,8 +27,6 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;course-overview&quot;&gt;Course Overview&lt;/h2&gt;
-
-&lt;p&gt;The revolution of affordable DNA sequencing have revolutinzined &lt;/p&gt;
 
 &lt;p&gt;Genomics has recently celebrated reaching the \$1000 genome milestone, making affordable DNA sequencing a reality. This goal of the sequencing revolution has been successfully completed. Looking forward, the next goal of the revolution can be ushered in by the advent of sequencing sensors - miniaturized sequencing devices that are manufactured for real time applications and deployed in large quantities at low costs. The first part of this manuscript envisions applications that will benefit from moving the sequencers to the samples in a range of domains. In the second part, the manuscript outlines the critical barriers that need to be addressed in order to reach the goal of ubiquitous sequencing sensors.
 This seminar course will cover exciting &lt;/p&gt;
@@ -167,12 +165,23 @@ This seminar course will cover exciting &lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
 
-&lt;p&gt;Module I: Introduction&lt;/p&gt;
-
-&lt;p&gt;Module II: Hacking &lt;/p&gt;
-
-&lt;p&gt;Module III: Societal effects:
+&lt;p&gt;Module I: Introduction
+Module II: Hacking 
+Module III: Societal effects:
 Genetic privacy&lt;/p&gt;
+
+&lt;h2 id=&quot;text-books&quot;&gt;Text books&lt;/h2&gt;
+
+&lt;p&gt;DNA sequencing and genomics are fast moving fields. The course therefore does not have a text book and will relies on research manuscripts and reviews.
+However, below I listed a few technical and non-technical books for interested students that would like to get a broader perspective on these fields:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A Short Guide to the Human Genome | Stewart Scherer (an excellent technical overview of different elements of the human genome, such as the length of each chromosome and what is the longest gene)&lt;/li&gt;
+&lt;li&gt;Introduction to Quantitative Genetics | Falconer (a technical overview that presents the statistical foundations of analyzing the genetic basis traits)&lt;/li&gt;
+&lt;li&gt;The $1,000 Genome | Kevin Davies (an excellent book non-technical book on 
+the hitsory of DNA sequencing)&lt;/li&gt;
+&lt;li&gt;The Create Destruction of Medicine | Eric Topol (Chapter 5 provides a non technical overiew on sequencing and genomics and their impact on precision medicine)&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
