@@ -4,7 +4,7 @@
  <title>Ubiquitous Genomics</title>
  <link href="https://ubiquitousgenomics.github.io/atom.xml" rel="self"/>
  <link href="https://ubiquitousgenomics.github.io/"/>
- <updated>2015-08-08T07:57:56-04:00</updated>
+ <updated>2015-08-08T08:07:30-04:00</updated>
  <id>https://ubiquitousgenomics.github.io</id>
  <author>
    <name>Yaniv Erlich</name>
@@ -170,6 +170,17 @@ Module II: Hacking
 Module III: Societal effects:
 Genetic privacy&lt;/p&gt;
 
+&lt;h2 id=&quot;grading&quot;&gt;Grading&lt;/h2&gt;
+
+&lt;p&gt;The grades will be based on the following components:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Participation: 20%&lt;/li&gt;
+&lt;li&gt;Hackatons: 30%&lt;/li&gt;
+&lt;li&gt;Final project: 30%&lt;/li&gt;
+&lt;li&gt;Mid-term project: 20%&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&quot;text-books&quot;&gt;Text books&lt;/h2&gt;
 
 &lt;p&gt;DNA sequencing and genomics are fast moving fields. The course therefore does not have a text book and will relies on research manuscripts and reviews.
@@ -181,6 +192,8 @@ However, below I listed a few technical and non-technical books for interested s
 &lt;li&gt;&lt;strong&gt;The $1,000 Genome&lt;/strong&gt; | Kevin Davies (an excellent book non-technical book on the history of DNA sequencing)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The Create Destruction of Medicine&lt;/strong&gt; | Eric Topol (Chapter 5 provides a non technical overview on sequencing and genomics and their impact on precision medicine)&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&quot;assignments-guidelines&quot;&gt;Assignments guidelines&lt;/h2&gt;
 </content>
  </entry>
  
